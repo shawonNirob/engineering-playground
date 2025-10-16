@@ -1,0 +1,10 @@
+{
+  name: Shawon,
+  age: 24,
+  skills: ["Java", "Spring Boot", "SQL",],
+  "isDeveloper": true,
+  "details": {
+    "country": "Bangladesh",
+    "experience": 1.2,
+  }
+}
